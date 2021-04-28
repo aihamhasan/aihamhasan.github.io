@@ -47752,11 +47752,7 @@ aM:function(){return new E.rH(C.m)}}
 E.rH.prototype={
 kK:function(){var s=0,r=P.a4(t.z),q=1,p,o=[],n,m,l
 var $async$kK=P.Z(function(a,b){if(a===1){p=b
-<<<<<<< HEAD
 s=q}while(true)switch(s){case 0:m=P.a3J("aihamhasan04@gmail.com",P.aI(["subject","Subject"],t.c,t.z),"mailto").grp()
-=======
-s=q}while(true)switch(s){case 0:m=P.a3J("aihamhasan04@gmail.com",P.aI(["subject","Example Subject & Symbols are allowed!"],t.c,t.z),"mailto").grp()
->>>>>>> e82b8a4312089996f374b34141848aa87ce18880
 q=3
 s=6
 return P.a5(T.nt(m),$async$kK)
@@ -47826,11 +47822,7 @@ return P.a3($async$kJ,r)},
 O:function(a,b){var s=C.we.h(0,50)
 return new M.qg(new E.zz(!0,new K.z5(new E.UK(this),null),null),s,null)}}
 E.UK.prototype={
-<<<<<<< HEAD
 $2:function(a5,a6){var s,r,q,p,o,n,m,l,k,j=null,i="assets/img1.png",h="Aiham Hasan",g="Software Engineer -Flutter Based in Mangalore, India",f="assets/linkedin.png",e="assets/github.png",d="assets/stack.png",c="assets/img2.png",b="Specialised in developing Applications",a="for All Platforms using Flutter",a0=this.a,a1=t.fQ,a2=a0.gLV(),a3=a0.gLS(),a4=a0.gLT()
-=======
-$2:function(a5,a6){var s,r,q,p,o,n,m,l,k,j=null,i="assets/img1.png",h="Aiham Hasan",g="Flutter Developer Based in Mangalore",f="assets/linkedin.png",e="assets/github.png",d="assets/stack.png",c="assets/img2.png",b="Specialised in developing Applications",a="for All Platforms using Flutter",a0=this.a,a1=t.fQ,a2=a0.gLV(),a3=a0.gLS(),a4=a0.gLT()
->>>>>>> e82b8a4312089996f374b34141848aa87ce18880
 a0=a0.gLU()
 if(a6.a===C.lf){a2=T.qf(H.d([new R.kl(j),T.eR(j,j,30),D.a1k(L.hy("Contact",j),a2)],a1),C.aQ)
 s=T.eR(j,20,j)
